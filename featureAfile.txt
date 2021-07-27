@@ -1,1 +1,2 @@
-this is in feature file commit 
+this is in feature file commit
+this line first written in feature a 
